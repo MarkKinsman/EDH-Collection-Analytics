@@ -1,0 +1,84 @@
+1 Ajani's Chosen
+1 All That Glitters
+1 Ancestral Mask
+1 Austere Command
+1 Banishing Light
+1 Bear Umbra
+1 Breeding Pool
+1 Burgeoning
+1 Canopy Vista
+1 Cast Out
+1 Command Tower
+1 Courser of Kruphix
+1 Creeping Renaissance
+1 Danitha Capashen, Paragon
+1 Darksteel Mutation
+1 Dawn's Reflection
+1 Eidolon of Blossoms
+1 Eladamri's Call
+1 Enchantress's Presence
+1 Estrid's Invocation
+1 Estrid, the Masked
+1 Ethereal Armor
+1 Fertile Ground
+1 Finest Hour
+1 Flooded Strand
+7 Forest
+1 Glacial Fortress
+1 Grasp of Fate
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Hanna, Ship's Navigator
+1 Helm of the Gods
+1 Herald of the Pantheon
+1 Hinterland Harbor
+1 Imprisoned in the Moon
+5 Island
+1 Karmic Justice
+1 Kasmina's Transmutation
+1 Kruphix's Insight
+1 Leyline of Anticipation
+1 Market Festival
+1 Mesa Enchantress
+1 Mirari's Wake
+1 Misty Rainforest
+1 Mystic Remora
+1 Oblivion Ring
+1 Open the Vaults
+1 Overgrowth
+8 Plains
+1 Plea for Guidance
+1 Prairie Stream
+1 Privileged Position
+1 Propaganda
+1 Rhystic Study
+1 Righteous Authority
+1 Rogue's Passage
+1 Sage's Reverie
+1 Satyr Enchanter
+1 Seaside Citadel
+1 Shield of the Oversoul
+1 Sigil of the Empty Throne
+1 Silent Sentinel
+1 Smothering Tithe
+1 Starfield Mystic
+1 Starfield of Nyx
+1 Stasis Snare
+1 Steel of the Godhead
+1 Stony Silence
+1 Sun Titan
+1 Sunpetal Grove
+1 Supreme Verdict
+1 Swiftfoot Boots
+1 Sylvan Library
+1 Temple Garden
+1 Tuvasa the Sunlit
+1 Unflinching Courage
+1 Unquestioned Authority
+1 Utopia Sprawl
+1 Vedalken Orrery
+1 Verduran Enchantress
+1 Wild Growth
+1 Windswept Heath
+1 Wrath of God
+

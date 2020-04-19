@@ -1,0 +1,101 @@
+1 Abzan Banner
+1 Arcane Sanctum
+1 Atarka, World Render
+1 Azorius Guildgate
+1 Belbe's Portal
+1 Bladewing the Risen
+1 Boros Guildgate
+1 Bower Passage
+1 Cascading Cataracts
+1 Cavern of Souls
+1 Citadel Siege
+1 Command Tower
+1 Commander's Sphere
+1 Cream of the Crop
+1 Crosis, the Purger
+1 Crucible of the Spirit Dragon
+1 Crumbling Necropolis
+1 Crux of Fate
+1 Cryptic Gateway
+1 Cultivate
+1 Deathbringer Regent
+1 Descendants' Path
+1 Dimir Guildgate
+1 Dragon Arch
+1 Dragonlord Atarka
+1 Dragonlord Dromoka
+1 Dragonlord Kolaghan
+1 Dragonlord Ojutai
+1 Dragonlord Silumgar
+1 Dragonlord's Servant
+1 Dragonspeaker Shaman
+1 Dromoka, the Eternal
+1 Elemental Bond
+1 Evolving Wilds
+1 Exotic Orchard
+1 Farseek
+1 Fist of Suns
+1 Foe-Razer Regent
+1 Forest
+1 Frontier Bivouac
+1 Frontier Siege
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Haven of the Spirit Dragon
+1 Herald's Horn
+1 Icefall Regent
+1 Intet, the Dreamer
+1 Island
+1 Izzet Guildgate
+1 Jeskai Banner
+1 Jugan, the Rising Star
+1 Jungle Shrine
+1 Keiga, the Tide Star
+1 Kindred Discovery
+1 Kodama's Reach
+1 Kokusho, the Evening Star
+1 Kolaghan, the Storm's Fury
+1 Lurking Predators
+1 Mardu Banner
+1 Maze's End
+1 Monastery Siege
+1 Mountain
+1 Mystic Monastery
+1 Nomad Outpost
+1 Ojutai, Soul of Winter
+1 Opulent Palace
+1 Oros, the Avenger
+1 Orzhov Guildgate
+1 Outpost Siege
+1 Palace Siege
+1 Path of Ancestry
+1 Plains
+1 Rakdos Guildgate
+1 Ramos, Dragon Engine
+1 Rupture Spire
+1 Ryusei, the Falling Star
+1 Sandsteppe Citadel
+1 Sarkhan Unbroken
+1 Savage Lands
+1 Scalelord Reckoner
+1 Scion of the Ur-Dragon
+1 Seaside Citadel
+1 Selesnya Guildgate
+1 Silumgar, the Drifting Death
+1 Simic Guildgate
+1 Skyline Despot
+1 Sol Ring
+1 Steel Hellkite
+1 Sultai Banner
+1 Sunscorch Regent
+1 Swamp
+1 Temple of the False God
+1 Temur Banner
+1 Teneb, the Harvester
+1 The Ur-Dragon
+1 Thunderbreak Regent
+1 Urza's Incubator
+1 Utvara Hellkite
+1 Wasitora, Nekoru Queen
+1 Yosei, the Morning Star
+

@@ -1,0 +1,87 @@
+1 Academy Ruins
+1 Aetherspouts
+1 Alhammarret's Archive
+1 Arcane Denial
+1 Arcane Lighthouse
+1 Baral, Chief of Compliance
+1 Blatant Thievery
+1 Blue Sun's Zenith
+1 Caged Sun
+1 Capsize
+1 Confirm Suspicions
+1 Consecrated Sphinx
+1 Coral Atoll
+1 Counterspell
+1 Cryptic Command
+1 Curse of the Swine
+1 Cyclonic Rift
+1 Desert of the Mindful
+1 Desertion
+1 Devastation Tide
+1 Dig Through Time
+1 Disallow
+1 Disdainful Stroke
+1 Dismiss
+1 Dissipate
+1 Docent of Perfection
+1 Dream Fracture
+1 Elixir of Immortality
+1 Evacuation
+1 Fabricate
+1 Field of Ruin
+1 Flooded Strand
+1 Foil
+1 Forbid
+1 Guile
+1 Halimar Depths
+1 Imprisoned in the Moon
+1 Insidious Will
+15 Island
+1 Isochron Scepter
+1 Jace's Sanctum
+1 Leyline of Anticipation
+1 Lonely Sandbar
+1 Lullmage Mentor
+1 Maze of Ith
+1 Metallurgic Summonings
+1 Mind's Dilation
+1 Mindbreak Trap
+1 Muddle the Mixture
+1 Myriad Landscape
+1 Mystic Confluence
+1 Nykthos, Shrine to Nyx
+1 Out of Bounds
+1 Overwhelming Intellect
+1 Pact of Negation
+1 Polluted Delta
+1 Pongify
+1 Primal Amulet
+1 Propaganda
+1 Rapid Hybridization
+1 Reality Shift
+1 Reliquary Tower
+1 Remote Isle
+1 Rewind
+1 Rhystic Study
+1 Riptide Laboratory
+1 Rite of Replication
+1 Sapphire Medallion
+1 Sol Ring
+1 Soldevi Excavations
+1 Spell Crumple
+1 Spell Swindle
+1 Summary Dismissal
+1 Swan Song
+1 Swiftfoot Boots
+1 Talrand, Sky Summoner
+1 Tamiyo's Journal
+1 Telepathy
+1 Temple of the False God
+1 Terrain Generator
+1 Thespian's Stage
+1 Thought Vessel
+1 Tolaria West
+1 Trail of Evidence
+1 Vedalken Shackles
+1 Void Shatter
+

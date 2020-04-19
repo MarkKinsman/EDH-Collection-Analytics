@@ -1,0 +1,85 @@
+1 Anger
+1 Angrath's Marauders
+1 Arbor Elf
+1 Archetype of Endurance
+1 Asceticism
+1 Balefire Dragon
+1 Bane of Progress
+1 Basilisk Collar
+1 Batterskull
+1 Beast Whisperer
+1 Birds of Paradise
+1 Courser of Kruphix
+1 Dictate of the Twin Gods
+1 Dragon Throne of Tarkir
+1 Drumhunter
+1 Elvish Mystic
+1 Elvish Piper
+1 Eternal Witness
+1 Farhaven Elf
+1 Fauna Shaman
+1 Fires of Yavimaya
+12 Forest
+1 Furnace of Rath
+1 Garruk's Horde
+1 Garruk's Packleader
+1 Godo, Bandit Warlord
+1 Goreclaw, Terror of Qal Sisma
+1 Gratuitous Violence
+1 Greenwarden of Murasa
+1 Gruul Guildgate
+1 Gruul Ragebeast
+1 Gruul Turf
+1 Gyre Sage
+1 High Market
+1 Ilharg, the Raze-Boar
+1 Karplusan Forest
+1 Kazandu Refuge
+1 Kessig Wolf Run
+1 Kusari-Gama
+1 Llanowar Elves
+1 Loxodon Warhammer
+1 Lurking Predators
+1 Manglehorn
+1 Mina and Denn, Wildborn
+1 Mosswort Bridge
+6 Mountain
+1 Nikya of the Old Ways
+1 Nykthos, Shrine to Nyx
+1 Paleoloth
+1 Primal Surge
+1 Primordial Sage
+1 Prowling Serpopard
+1 Rhythm of the Wild
+1 Rogue's Passage
+1 Rugged Highlands
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Scavenging Ooze
+1 Silklash Spider
+1 Skarrg, the Rage Pits
+1 Solemn Simulacrum
+1 Somberwald Sage
+1 Soul of the Harvest
+1 Spinerock Knoll
+1 Steel Hellkite
+1 Stonehoof Chieftain
+1 Sunder Shaman
+1 Temple of Abandon
+1 Temple of the False God
+1 Terastodon
+1 Thunderfoot Baloth
+1 Timber Gorge
+1 Ulvenwald Tracker
+1 Undiscovered Paradise
+1 Urabrask the Hidden
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Vizier of the Menagerie
+1 Whisperwood Elemental
+1 Wood Elves
+1 Xenagos, God of Revels
+1 Zendikar Resurgent
+1 Zhur-Taa Druid
+

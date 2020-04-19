@@ -1,0 +1,101 @@
+1 Ajani Steadfast
+1 Akroma's Vengeance
+1 Ashiok, Dream Render
+1 Astral Cornucopia
+1 Atraxa, Praetors' Voice
+1 Austere Command
+1 Bloodstained Mire
+1 Bolas's Citadel
+1 Breeding Pool
+1 Canopy Vista
+1 Chromatic Lantern
+1 Coalition Relic
+1 Command Tower
+1 Contagion Clasp
+1 Contagion Engine
+1 Crystalline Crawler
+1 Deepglow Skate
+1 Deploy the Gatewatch
+1 Djeru, With Eyes Open
+1 Doubling Season
+1 Dovin Baan
+1 Drowned Catacomb
+1 Elspeth, Knight-Errant
+1 Elspeth, Sun's Champion
+1 Everflowing Chalice
+1 Exotic Orchard
+1 Flooded Strand
+1 Flux Channeler
+1 Forbidden Orchard
+1 Forest
+1 Freyalise, Llanowar's Fury
+1 Fumigate
+1 Garruk Wildspeaker
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Hinterland Harbor
+1 Humility
+1 Inexorable Tide
+1 Interplanar Beacon
+1 Island
+1 Isolated Chapel
+1 Jace, Unraveler of Secrets
+1 Karn's Bastion
+1 Kaya, Bane of the Dead
+1 Kiora, the Crashing Wave
+1 Liliana Vess
+1 Mana Confluence
+1 Marsh Flats
+1 Merciless Eviction
+1 Misty Rainforest
+1 Narset Transcendent
+1 Narset, Parter of Veils
+1 Nissa, Vital Force
+1 Norn's Annex
+1 Oath of Nissa
+1 Oath of Teferi
+1 Overgrown Tomb
+1 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Primevals' Glorious Rebirth
+1 Reflecting Pool
+1 Rings of Brighthearth
+1 Sensei's Divining Top
+1 Shalai, Voice of Plenty
+1 Sol Ring
+1 Sorin Markov
+1 Spark Double
+1 Sphere of Safety
+1 Spike Weaver
+1 Sunken Hollow
+1 Sunpetal Grove
+1 Supreme Verdict
+1 Swamp
+1 Sword of Truth and Justice
+1 Sylvan Library
+1 Tamiyo, Field Researcher
+1 Tamiyo, the Moon Sage
+1 Teferi, Hero of Dominaria
+1 Teferi, Temporal Archmage
+1 Temple Garden
+1 Tendo Ice Bridge
+1 Tezzeret the Seeker
+1 Tezzeret's Gambit
+1 Tezzeret, Artifice Master
+1 Tezzeret, Master of the Bridge
+1 The Chain Veil
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
+1 Urza's Ruinous Blast
+1 Venser, the Sojourner
+1 Verdant Catacombs
+1 Vivid Meadow
+1 Vraska the Unseen
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Wrath of God
+
