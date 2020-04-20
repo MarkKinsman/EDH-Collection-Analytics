@@ -14,10 +14,7 @@ class CardMetadataTable {
     }
 
     async LoadTable(cardList) {
-        connector.callAPI(cardList, (cardData) => {
-            this.#cards = cardData
-            return;
-        });
+        this.#cards = await connector.callAPI(cardList);
     }
 
 }
