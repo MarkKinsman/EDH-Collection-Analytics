@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>EDH Collection Analytics</title>
+    <script src="js/enumerateList.js"></script>
+  </head>
+  <body>
+    <div class="document-container">
+      <div class="document">
+        <h1>Upload Your Decklists:</h1>
+        <br/>
+        <form id="filesUpload" action="/uploadDecks" method="post" enctype="multipart/form-data">
+          <div id="drop-zone">
+            <input type="file" id="files" name="decklists" accept="text/*" multiple /><br />
+            <div id="selected-files"></div>
+          </div>
+          <input type="submit" />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

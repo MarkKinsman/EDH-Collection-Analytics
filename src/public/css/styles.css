@@ -1,0 +1,53 @@
+html,
+body {
+  height: 100%;
+}
+
+.document-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.document {
+    width: 50%;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+h1 {
+    font: 21pt bold arial;
+    flex: 0;
+    margin: 0;
+}
+
+#drop-zone {
+    border: 2px dashed #bbb;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 50px;
+    min-height: 15vh;
+
+    text-align: center;
+    align-items: center;
+    font: 16pt arial;
+    color: #bbb;
+}
+
+#selected-files {
+    text-align: left;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+
+    font-size: 1em;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}

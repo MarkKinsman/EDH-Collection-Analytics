@@ -11,7 +11,7 @@ app.use(function (err, req, res, next) {
     next(err)
   })
 
-app.use(express.static(path.join(__dirname, 'dist')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 require('./routes')(app);
 
