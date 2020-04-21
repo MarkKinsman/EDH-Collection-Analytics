@@ -15,7 +15,7 @@ Orchestrator.webrequest = async function webrequest(req, res){
     }
     
     var cardMetadata = new CardMetadataTable();
-    await cardMetadata.LoadTable(cardsInDecks.getUniqueList())
+    await cardMetadata.LoadTable(cardsInDecks.getUniqueList());
 
     console.log(`Card Metadata: ${JSON.stringify(cardMetadata.cards)}`);
 

@@ -4,35 +4,39 @@ var _ = require('lodash');
 
 var Connector = {};
 
-Connector.callAPI = function callAPI(cardList, callback) {
-    let calls = 0;
+Connector.callAPI = async (cardList) => {
+    // let calls = 0;
     var lookedupCards = [];
-    async.eachSeries(_.chunk(cardList, 75), (chunk, done) => {
 
-        var options = {
-            method: 'POST',
-            uri: 'https://api.scryfall.com/cards/collection',
-            body: generateRequestBody(chunk),
-            json: true
-        }
-
-        request.post(options, (err, response) => { 
-
-            Array.prototype.push.apply(lookedupCards, response.body.data);
-            
-            if(calls++ % 10 === 0) {
-                setTimeout(done, 1000);
-            } else {
-                done();
+    let chunks = _.chunk(cardList, 75);
+    let promises = [];
+    _.for(chunks, (chunk, index) => {
+        promises.push(new Promise((resolve, reject) => {
+            var options = {
+                method: 'POST',
+                uri: 'https://api.scryfall.com/cards/collection',
+                body: generateRequestBody(chunk),
+                json: true
             }
-        });
-    }, (err) => {
-        if(err) {
-            console.Error(`There was an error getting cards: ${err}`);
-        } else {
-            return lookedupCards;
-        }
+
+            request.post(options, (err, response) => {
+
+                Array.prototype.push.apply(lookedupCards, response.body.data);
+            });
+        }))
     });
+
+    let promiseChunks = _.chunk(promises, 10);
+    _.for(promiseChunks, (chunk, index) => {
+        chunk.push(new Promise( resolve => {
+            setTimeout(()=>{
+                resolve();
+            }, 1000);
+        }))
+        await Promise.all(chunk);
+    })
+
+    return lookedupCards;
 }
 
 function generateRequestBody(cardList) {
